@@ -1,4 +1,6 @@
 @file:OptIn(ExperimentalMaterial3Api::class)
+import androidx.compose.ui.graphics.nativeCanvas
+import android.graphics.Paint
 
 package com.smarttracker.ui
 
